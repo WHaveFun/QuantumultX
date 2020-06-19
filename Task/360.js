@@ -9,7 +9,7 @@ const isRequest = typeof $request != "undefined";
 if (isRequest) {
   var head = $request.headers;
   var cookie = head.Cookie;
-  $notify("360扫地机 Cookie获取成功 🎉", "", "");
+  $notification("360扫地机 Cookie获取成功 🎉", "", "");
   $prefs.setValueForKey(cookie, "qihuck");
   $done();
 } else {
@@ -38,11 +38,11 @@ if (isRequest) {
       if (msg == "SUCCESS") {
         var msg = "签到成功";
       }
-      $notify("360扫地机", msg, "");
+      $notification("360扫地机", msg, "");
     },
     reason => {
       // reason.error
-      $notify("360扫地机", "", JSON.parse(reason.error).msg); // Error!
+      $notification("360扫地机", "", JSON.parse(reason.error).msg); // Error!
     }
   );
 }
