@@ -8,3 +8,4 @@
 # jike
 HOST-SUFFIX,midway.run,AppLog
 HOST-SUFFIX,ingest.sentry.io,AppLog
+USER-AGENT,SensorsAnalytics*,AppLog
