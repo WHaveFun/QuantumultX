@@ -13,28 +13,28 @@ HOST-SUFFIX, dualstack-logs.amap.com, AppLog
 
 # ali
 HOST-SUFFIX, eco.taobao.com, AppLog
-HOST-SUFFIX, loggw-ex.alipay.com, reject
-HOST-SUFFIX, emb-api.com, reject
-HOST-SUFFIX, loggw.alipay.com, reject
-HOST-SUFFIX, tracert.alipay.com, reject
-HOST-SUFFIX, ynuf.aliapp.org, reject
-HOST-SUFFIX, yixiu-abtest.alicdn.com, reject
+HOST-SUFFIX, loggw-ex.alipay.com, AppLog
+HOST-SUFFIX, emb-api.com, AppLog
+HOST-SUFFIX, loggw.alipay.com, AppLog
+HOST-SUFFIX, tracert.alipay.com, AppLog
+HOST-SUFFIX, ynuf.aliapp.org, AppLog
+HOST-SUFFIX, yixiu-abtest.alicdn.com, AppLog
 
 #
-HOST-SUFFIX, event.zhihu.com, reject
-HOST-SUFFIX, log.cmbchina.com, reject
-HOST-SUFFIX, log.people.cn, reject
-HOST-SUFFIX, log.shanbay.com, reject
-HOST-SUFFIX, logapi.people.cn, reject
-HOST-SUFFIX, logapi.xsyxsc.com, reject
-HOST-SUFFIX, logs-api.smzdm.com, reject
-HOST-SUFFIX, lwlog.laiwang.com, reject
+HOST-SUFFIX, event.zhihu.com, AppLog
+HOST-SUFFIX, log.cmbchina.com, AppLog
+HOST-SUFFIX, log.people.cn, AppLog
+HOST-SUFFIX, log.shanbay.com, AppLog
+HOST-SUFFIX, logapi.people.cn, AppLog
+HOST-SUFFIX, logapi.xsyxsc.com, AppLog
+HOST-SUFFIX, logs-api.smzdm.com, AppLog
+HOST-SUFFIX, lwlog.laiwang.com, AppLog
 
 # meituan
-HOST-SUFFIX, mlog.dianping.com, reject
-HOST-SUFFIX, wreport1.meituan.net, reject
-HOST-SUFFIX, wreport2.meituan.net, reject
+HOST-SUFFIX, mlog.dianping.com, AppLog
+HOST-SUFFIX, wreport1.meituan.net, AppLog
+HOST-SUFFIX, wreport2.meituan.net, AppLog
 
 #Tencent
-HOST-SUFFIX, vv.video.qq.com, reject
-HOST-SUFFIX, vweixinthumb.tc.qq.com, reject
+HOST-SUFFIX, vv.video.qq.com, AppLog
+HOST-SUFFIX, vweixinthumb.tc.qq.com, AppLog
