@@ -1,11 +1,40 @@
 # NAME: AppLog
 # AUTHOR: WHaveFun
 # REPO: https://github.com/whavefun/QuantumultX
-# UPDATED: 2022-01-19 19:57:00
-# HOST-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2022-01-19 21:57:00
 
 # jike
 HOST-SUFFIX,midway.run,AppLog
 HOST-SUFFIX,ingest.sentry.io,AppLog
 USER-AGENT,SensorsAnalytics*,AppLog
+
+# 高德地图
+HOST-SUFFIX, dualstack-logs.amap.com, AppLog
+
+# ali
+HOST-SUFFIX, eco.taobao.com, AppLog
+HOST-SUFFIX, loggw-ex.alipay.com, reject
+HOST-SUFFIX, emb-api.com, reject
+HOST-SUFFIX, loggw.alipay.com, reject
+HOST-SUFFIX, tracert.alipay.com, reject
+HOST-SUFFIX, ynuf.aliapp.org, reject
+HOST-SUFFIX, yixiu-abtest.alicdn.com, reject
+
+#
+HOST-SUFFIX, event.zhihu.com, reject
+HOST-SUFFIX, log.cmbchina.com, reject
+HOST-SUFFIX, log.people.cn, reject
+HOST-SUFFIX, log.shanbay.com, reject
+HOST-SUFFIX, logapi.people.cn, reject
+HOST-SUFFIX, logapi.xsyxsc.com, reject
+HOST-SUFFIX, logs-api.smzdm.com, reject
+HOST-SUFFIX, lwlog.laiwang.com, reject
+
+# meituan
+HOST-SUFFIX, mlog.dianping.com, reject
+HOST-SUFFIX, wreport1.meituan.net, reject
+HOST-SUFFIX, wreport2.meituan.net, reject
+
+#Tencent
+HOST-SUFFIX, vv.video.qq.com, reject
+HOST-SUFFIX, vweixinthumb.tc.qq.com, reject
