@@ -1,0 +1,10 @@
+# NAME: AppLog
+# AUTHOR: WHaveFun
+# REPO: https://github.com/whavefun/QuantumultX
+# UPDATED: 2022-01-19 19:57:00
+# HOST-SUFFIX: 2
+# TOTAL: 2
+
+# jike
+HOST-SUFFIX,midway.run,AppLog
+HOST-SUFFIX,ingest.sentry.io,AppLog
