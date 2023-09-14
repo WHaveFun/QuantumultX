@@ -10,7 +10,8 @@ USER-AGENT,SensorsAnalytics*,AppLog
 
 # 高德地图
 HOST-SUFFIX, dualstack-logs.amap.com, AppLog
-
+#友盟
+HOST-SUFFIX, ulogs.umeng.com, AppLog
 # ali
 HOST-SUFFIX, eco.taobao.com, AppLog
 HOST-SUFFIX, loggw-ex.alipay.com, AppLog
