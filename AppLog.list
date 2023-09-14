@@ -12,6 +12,7 @@ USER-AGENT,SensorsAnalytics*,AppLog
 HOST-SUFFIX, dualstack-logs.amap.com, AppLog
 #友盟
 HOST-SUFFIX, ulogs.umeng.com, AppLog
+HOST-SUFFIX, ulogs.umengcloud.com, AppLog
 # ali
 HOST-SUFFIX, eco.taobao.com, AppLog
 HOST-SUFFIX, loggw-ex.alipay.com, AppLog
