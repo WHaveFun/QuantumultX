@@ -1,0 +1,17 @@
+# NAME: Tonghuashun (同花顺)
+# AUTHOR: Generated for Loon
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-02-06
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 3
+# TOTAL: 10
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,hisenses.com
+DOMAIN-SUFFIX,ijinma.com
+DOMAIN-SUFFIX,1234567.com.cn
+DOMAIN-SUFFIX,miantiao.com
+DOMAIN-SUFFIX,licaimofang.com
+DOMAIN-SUFFIX,5ifund.com
+USER-AGENT,*同花顺*
+USER-AGENT,*iFinD*
+USER-AGENT,*THS*
